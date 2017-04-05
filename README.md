@@ -10,7 +10,11 @@ While the Rust language is gaining more and more attention, scientific computing
 - [lapack](https://github.com/stainless-steel/lapack) provides an interface to the Linear Algebra PACKage
 - [nalgebra](http://nalgebra.org/) Linear algebra library
 - [ndarray](https://bluss.github.io/rust-ndarray/master/ndarray/index.html) provides an N-dimensional container for general elements and for numerics.
+- [rulinalg](https://github.com/AtheMathmo/rulinalg/) a linear algebra library written in Rust that doesn't require heavy external dependencies.
 
+## simulation
+ - [Lumol](https://github.com/lumol-org/lumol) molecular simulation engine
+ 
 ## genome related crates
  - [alpaca](https://github.com/johanneskoester/alpaca) the ALgebraic PArallel variant CAller [in development]
 
