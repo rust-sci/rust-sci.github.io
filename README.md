@@ -3,6 +3,7 @@
 While the Rust language is gaining more and more attention, scientific computing using rust is not established yet.
 
 *We want to change this!*
+Join us on on IRC at **#rust-sci** on *irc.mozilla.org*
 
 # existing crates
 ## linear algebra
