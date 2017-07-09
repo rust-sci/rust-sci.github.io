@@ -7,6 +7,7 @@ Join us on IRC on **#rust-sci** at *irc.mozilla.org*
 
 # existing crates
 ## linear algebra
+- [alga](https://github.com/sebcrozet/alga) abstract algebra for Rust
 - [blas](https://github.com/stainless-steel/blas) provides an interface to the Basic Linear Algebra Subprograms
 - [lapack](https://github.com/stainless-steel/lapack) provides an interface to the Linear Algebra PACKage
 - [nalgebra](http://nalgebra.org/) Linear algebra library
